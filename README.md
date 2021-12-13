@@ -1,5 +1,5 @@
 # Description 
-The repo contains the scripts to estimate the LSD values [Librado, 2018].
+The repo contains the scripts to estimate the LSD values (Librado, 2018).
 
 # Scripts
 
